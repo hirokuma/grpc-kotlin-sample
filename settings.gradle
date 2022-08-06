@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "GrpcSample"
-include ':app'
+include ':app', ':protos', ':stub-android'
